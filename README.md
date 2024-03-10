@@ -36,3 +36,11 @@ Make sure you have the following installed:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## uploade product video for showing example of repo
+
+https://github.com/Deepika8688/Money_tracker/assets/162797537/ded9641b-fc9c-4664-8fdb-8fa1ce184603
+
+
+
+
